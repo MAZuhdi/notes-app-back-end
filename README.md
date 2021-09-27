@@ -3,7 +3,7 @@
 It is a backend app using Node JS
 Developed for learning purposes
 
-Feature:
+Features:
 1. Create Note
 2. Read Note
 3. Update Note
